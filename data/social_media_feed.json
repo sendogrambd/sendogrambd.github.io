@@ -7,6 +7,12 @@
   },
   {
     "id": 2,
+    "type": "facebook",
+    "title": "\uD83D\uDCD6 বিনীত অনুরোধ:\nদয়া করে একটু সময় নিয়ে পোস্টটি পড়ুন — \nএটি আমাদের সমাজ, মূল্যবোধ ও ভবিষ্যৎ প্রজন্মের সুরক্ষার জন্য অত্যন্ত গুরুত্বপূর্ণ।",
+    "value": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSendoGram.bd%2Fposts%2Fpfbid033NRRdYyNFKLLcHVfJqhGuQDXDr76D5PcATwBh8T4bupmCyzUTKCMDQojVRrChecVl&show_text=true&width=500"
+  },
+  {
+    "id": 3,
     "type": "youtube",
     "title": "আমাদের নীরবতা নিশ্চুপ থাকাই জালিমদের আরো শক্তিশালী জালিম বানিয়েছে  — প্রতিবাদই ইমানের পরিচয়",
     "value": "BIoRwrunUAE"
