@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Software Engineer",
+    "icon": "laptopCode",
+    "persons": [
+      {
+        "name": "মোঃ হাসান",
+        "title": "Flutter Developer",
+        "moholla": "হাজী বাড়ি",
+        "fathers_name": "মোঃ কামাল হোসেন"
+      },
+      {
+        "name": "মোঃ ইমরান",
+        "title": "Backend Developer",
+        "moholla": "মাস্টার বাড়ি",
+        "fathers_name": "মোঃ আব্দুল মতিন"
+      }
+    ]
+  },
+  {
+    "category": "Doctor",
+    "icon": "userDoctor",
+    "persons": [
+      {
+        "name": "ডাঃ সাজিদা আক্তার",
+        "title": "MBBS, FCPS",
+        "moholla": "চেয়ারম্যান বাড়ি",
+        "fathers_name": "মোঃ আ. হান্নান"
+      }
+    ]
+  },
+  {
+    "category": "Islamic Scholar",
+    "icon": "mosque",
+    "persons": [
+      {
+        "name": "মাওলানা শফিকুল ইসলাম",
+        "title": "Principal, মাদ্রাসা",
+        "moholla": "মাঝিপাড়া",
+        "fathers_name": "মোঃ রফিকুল ইসলাম"
+      }
+    ]
+  },
+  {
+    "category": "Hafaz",
+    "icon": "bookQuran",
+    "persons": [
+      {
+        "name": "হাফেজ আব্দুল্লাহ",
+        "title": "হাফেজ, মাদ্রাসা শিক্ষক",
+        "moholla": "মসজিদ পাড়া",
+        "fathers_name": "মোঃ আলমগীর"
+      }
+    ]
+  }
+]
