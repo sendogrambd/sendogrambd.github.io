@@ -1,59 +1,121 @@
 [
   {
     "id": 1,
-    "category": "Software Engineer",
+    "category": "সফটওয়্যার ইঞ্জিনিয়ার",
+    "category_en": "Software Engineer",
     "icon": "laptopCode",
     "persons": [
       {
         "name": "মোঃ হাসান",
         "title": "Flutter Developer",
         "moholla": "হাজী বাড়ি",
-        "father_name": "মোঃ কামাল হোসেন"
-      },
-      {
-        "name": "মোঃ ইমরান",
-        "title": "Backend Developer",
-        "moholla": "মাস্টার বাড়ি",
-        "father_name": "মোঃ আব্দুল মতিন"
+        "father_name": "মোঃ কামাল হোসেন",
+        "description": "সফটওয়্যার ইঞ্জিনিয়ার হিসেবে Flutter-এ কাজ করছেন। দেশের প্রথমদিককার ডেভেলপার।"
       }
     ]
   },
   {
     "id": 2,
-    "category": "Doctor",
+    "category": "ডাক্তার",
+    "category_en": "Doctor",
     "icon": "userDoctor",
     "persons": [
       {
         "name": "ডাঃ সাজিদা আক্তার",
         "title": "MBBS, FCPS",
         "moholla": "চেয়ারম্যান বাড়ি",
-        "father_name": "মোঃ আ. হান্নান"
+        "father_name": "মোঃ আ. হান্নান",
+        "description": "গ্রামের গর্বিত নারী ডাক্তার। চিকিৎসা পেশায় সুনামের সাথে কাজ করছেন।"
       }
     ]
   },
   {
     "id": 3,
-    "category": "Islamic Scholar",
+    "category": "ইসলামী ব্যক্তিত্ব",
+    "category_en": "Islamic Scholar",
     "icon": "mosque",
     "persons": [
       {
         "name": "মাওলানা শফিকুল ইসলাম",
         "title": "Principal, মাদ্রাসা",
         "moholla": "মাঝিপাড়া",
-        "father_name": "মোঃ রফিকুল ইসলাম"
+        "father_name": "মোঃ রফিকুল ইসলাম",
+        "description": "আলেম ও শিক্ষক, ধর্মীয় ও নৈতিক শিক্ষায় অবদান রাখছেন।"
       }
     ]
   },
   {
     "id": 4,
-    "category": "Hafaz",
+    "category": "হাফেজ",
+    "category_en": "Hafaz",
     "icon": "bookQuran",
     "persons": [
       {
         "name": "হাফেজ আব্দুল্লাহ",
         "title": "হাফেজ, মাদ্রাসা শিক্ষক",
         "moholla": "মসজিদ পাড়া",
-        "father_name": "মোঃ আলমগীর"
+        "father_name": "মোঃ আলমগীর",
+        "description": "সম্পূর্ণ কুরআন হিফজ করেছেন এবং শিক্ষক হিসেবে নিয়োজিত।"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "সরকারি চাকরিজীবী",
+    "category_en": "Government Employee",
+    "icon": "idBadge",
+    "persons": [
+      {
+        "name": "সাইফুল ইসলাম",
+        "title": "সহকারী শিক্ষক, সরকার প্রাথমিক বিদ্যালয়",
+        "moholla": "মধ্যপাড়া",
+        "father_name": "মোঃ আজিজুর রহমান",
+        "description": "সরকারি প্রাথমিক বিদ্যালয়ের শিক্ষক হিসেবে সুনামের সাথে দায়িত্ব পালন করছেন।"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "উদ্যোক্তা ও সমাজসেবক",
+    "category_en": "Entrepreneur & Social Worker",
+    "icon": "handHoldingHeart",
+    "persons": [
+      {
+        "name": "রুহুল আমিন",
+        "title": "ব্যবসায়ী ও সমাজসেবক",
+        "moholla": "বাজার পাড়া",
+        "father_name": "মোঃ রফিকুল ইসলাম",
+        "description": "একজন সফল ক্ষুদ্র উদ্যোক্তা এবং গ্রামের নানা উন্নয়নমূলক কাজে নিয়োজিত।"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "শিক্ষিত ও গর্বিত ব্যক্তি",
+    "category_en": "Educated & Proud Person",
+    "icon": "graduationCap",
+    "persons": [
+      {
+        "name": "মোঃ মনিরুল ইসলাম",
+        "title": "প্রথম মাস্টার্সধারী",
+        "moholla": "উত্তর পাড়া",
+        "father_name": "মোঃ শহীদুল ইসলাম",
+        "description": "গ্রামের প্রথম মাস্টার্সধারী হিসেবে শিক্ষার ক্ষেত্রে পথিকৃৎ।"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "প্রাক্তন জনপ্রতিনিধি",
+    "category_en": "Former Representative",
+    "icon": "peopleRoof",
+    "persons": [
+      {
+        "name": "আবুল কালাম",
+        "title": "প্রাক্তন চেয়ারম্যান",
+        "moholla": "চেয়ারম্যান বাড়ি",
+        "father_name": "মোঃ ইউসুফ আলী",
+        "description": "গ্রামের উন্নয়নে দীর্ঘ সময় চেয়ারম্যান হিসেবে দায়িত্ব পালন করেছেন।"
       }
     ]
   }
