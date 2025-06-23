@@ -8,13 +8,13 @@
         "name": "মোঃ হাসান",
         "title": "Flutter Developer",
         "moholla": "হাজী বাড়ি",
-        "fathers_name": "মোঃ কামাল হোসেন"
+        "father_name": "মোঃ কামাল হোসেন"
       },
       {
         "name": "মোঃ ইমরান",
         "title": "Backend Developer",
         "moholla": "মাস্টার বাড়ি",
-        "fathers_name": "মোঃ আব্দুল মতিন"
+        "father_name": "মোঃ আব্দুল মতিন"
       }
     ]
   },
@@ -27,7 +27,7 @@
         "name": "ডাঃ সাজিদা আক্তার",
         "title": "MBBS, FCPS",
         "moholla": "চেয়ারম্যান বাড়ি",
-        "fathers_name": "মোঃ আ. হান্নান"
+        "father_name": "মোঃ আ. হান্নান"
       }
     ]
   },
@@ -40,7 +40,7 @@
         "name": "মাওলানা শফিকুল ইসলাম",
         "title": "Principal, মাদ্রাসা",
         "moholla": "মাঝিপাড়া",
-        "fathers_name": "মোঃ রফিকুল ইসলাম"
+        "father_name": "মোঃ রফিকুল ইসলাম"
       }
     ]
   },
@@ -53,7 +53,7 @@
         "name": "হাফেজ আব্দুল্লাহ",
         "title": "হাফেজ, মাদ্রাসা শিক্ষক",
         "moholla": "মসজিদ পাড়া",
-        "fathers_name": "মোঃ আলমগীর"
+        "father_name": "মোঃ আলমগীর"
       }
     ]
   }
