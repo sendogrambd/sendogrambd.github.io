@@ -46,8 +46,8 @@
   },
   {
     "id": 4,
-    "category": "Businessman",
-    "category_bn": "ব্যবসায়ী ও উদ্যোক্তা",
+    "category": "ব্যবসায়ী ও উদ্যোক্তা",
+    "category_en": "Businessman",
     "icon": "handHoldingDollar",
     "persons": [
       {
