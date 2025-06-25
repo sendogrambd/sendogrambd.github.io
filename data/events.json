@@ -1,0 +1,35 @@
+[
+  {
+    "title": "স্বাস্থ্য সেবা ক্যাম্প",
+    "type": "স্বাস্থ্য",
+    "moholla": "বড়মহল্লা",
+    "date": "2025-06-28",
+    "time": "10:00 AM - 4:00 PM",
+    "venue": "বড়মহল্লা প্রাথমিক বিদ্যালয়",
+    "description": "বিনামূল্যে স্বাস্থ্য পরীক্ষা ও ওষুধ বিতরণ করা হবে।",
+    "contact": "০১৭xxxxxxxx",
+    "image_url": "https://example.com/event_health.jpg"
+  },
+  {
+    "title": "কৃষি প্রশিক্ষণ কর্মশালা",
+    "type": "কৃষি",
+    "moholla": "চরপাড়া",
+    "date": "2025-07-02",
+    "time": "9:00 AM - 2:00 PM",
+    "venue": "চরপাড়া ইউনিয়ন হল",
+    "description": "আধুনিক কৃষি প্রযুক্তি বিষয়ক প্রশিক্ষণ কর্মশালা।",
+    "contact": "০১৮xxxxxxxx",
+    "image_url": "https://example.com/event_agriculture.jpg"
+  },
+  {
+    "title": "সাংস্কৃতিক সন্ধ্যা",
+    "type": "সাংস্কৃতিক",
+    "moholla": "কলাবাগান",
+    "date": "2025-07-05",
+    "time": "6:00 PM - 9:00 PM",
+    "venue": "কলাবাগান মাঠ",
+    "description": "স্থানীয় শিল্পীদের পরিবেশনায় এক মনোজ্ঞ সাংস্কৃতিক সন্ধ্যা।",
+    "contact": "০১৯xxxxxxxx",
+    "image_url": "https://example.com/event_cultural.jpg"
+  }
+]
