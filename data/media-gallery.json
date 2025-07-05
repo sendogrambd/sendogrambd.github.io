@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "url": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 2,
+    "type": "youtube",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  }
+]
