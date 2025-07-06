@@ -6,27 +6,7 @@
   },
   {
     "id": 2,
-    "type": "youtube",
-    "url": "https://www.youtube.com/watch?v=sXrUqClXzPc"
-  },
-  {
-    "id": 3,
     "type": "image",
     "url": "http://sendogrambd.github.io/data/media-gallery/image2.png"
-  },
-  {
-    "id": 4,
-    "type": "youtube",
-    "url": "https://www.youtube.com/watch?v=Wc4LwJ81unU"
-  },
-  {
-    "id": 5,
-    "type": "youtube",
-    "url": "https://www.youtube.com/watch?v=EMhfeNTbhXQ"
-  },
-  {
-    "id": 6,
-    "type": "youtube",
-    "url": "https://www.youtube.com/watch?v=_dTe3O1-HUc"
   }
 ]
